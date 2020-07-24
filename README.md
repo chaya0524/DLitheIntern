@@ -6,6 +6,6 @@ The following  model  detects Pneumonia in patients using the X-ray image of the
 
 Dataset Source : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/data#
 
-NOTE: Refer Requirement.txt to install all the necessary modules.
+NOTE: Refer Requirement.txt to install all the necessary modules and Documentation.docx for Directory Structure,dataset path ,required folder creation and performance of the model.
 
 Assignment during Online Internship with DLithe(www.dlithe.com)
